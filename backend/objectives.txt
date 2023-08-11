@@ -1,0 +1,7 @@
+1. establish connection to mysql
+2. query the album table
+    - create albumDao, flesh out the retrieve option
+    - make main a Command line runner
+
+3. establish connection to a music db api, and write logic to insert data from that api into our api if an album
+in boombox db is not present
